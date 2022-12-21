@@ -26,8 +26,8 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
   // crappy hardcoded fix to change sidebar item order and titles
   if (hasChildren) {
     switch (items[0].label) {
-      case 'tera-raid': // guides
-        items[0] = { items:[], label: 'tera-raid', title: 'Tera Raid', url: '/guides/tera-raid'};
+      case '6-star-raid': // data
+        items[0] = { items:[], label: '6-star-raid', title: '6 Star Raid', url: '/data/6-star-raid'};
         break;
       default:
         // do nothing

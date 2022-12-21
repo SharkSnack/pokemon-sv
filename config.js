@@ -32,10 +32,8 @@ const config = {
     forcedNavOrder: [
       '/index',
       '/guides',
-      '/items',
-      '/system',
-      '/dungeons',
-      '/other',
+      '/data',
+      '/builds',
     ],
     collapsedNav: [],
     links: [],

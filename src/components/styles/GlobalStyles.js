@@ -611,6 +611,10 @@ export const baseStyles = css`
   table tr td :last-child {
     margin-bottom: 0;
   }
+  .raidTable img {
+    position: relative !important;
+    vertical-align: middle;
+  }
   .centeredTable td {
     text-align: center;
   }
@@ -1103,7 +1107,7 @@ export const baseStyles = css`
     background-color: #f3f3f3 !important;
   }
   .highlightDarkGray {
-    background-color: #dfdfdf !important;
+    background-color: #bbb !important;
   }
   .highlightYellow {
     background-color: #ffffe4 !important;
@@ -1647,6 +1651,8 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 8px;
     margin-top: 12px;
+    border-left: 10px solid #E5CFFF;
+    padding-left: 6px;
   }
 
   .heading3 {
@@ -1668,7 +1674,7 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 8px;
     margin-top: 12px;
-    border-left: 10px solid #E5CFFF;
+    border-left: 5px solid #E5CFFF;
     padding-left: 6px;
   }
 

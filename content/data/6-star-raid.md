@@ -4,13 +4,13 @@ metaTitle: "6 Star Raid - Pokemon SV Guides"
 metaDescription: "6 star tera raid data for Pokemon Scarlet / Violet"
 ---
 
-Non-Event 6 star tera raid boss data. (Source: <a href="https://stevecooktu.github.io/sv_raid_lookup/">SV Raid Lookup</a>)<br/>Images are from Serebii.
+Non-Event 6 star tera raid boss data. (Source: <a href="https://stevecooktu.github.io/sv_raid_lookup/">SV Raid Lookup</a> and <a href="https://hyperwiki.jp/pokemonsv/raid-param/">hyperWiki</a>)<br/>Images are from Serebii.
 
 All bosses:
 
-- HP: 2500
 - Boss Level: 90
 - Time Limit: 7m 30s (450 sec)
+- Stat values as of game version <span class="blueText">1.10</span> - hyperWiki claims stats use 0 IV as a base, and some stats have 128 EVs.
 - Shield damage rate is 20% from regular pokemon, or 75% from Terastallized pokemon.
 
 <br/>
@@ -46,6 +46,13 @@ All bosses:
     <td>Base Stats:<br/>75, 110, 105, 30, 70, 100</td>
     <td>Base Stats:<br/>75, 110, 105, 30, 70, 100</td>
     <td>Base Stats:<br/>95, 125, 79, 60, 100, 81</td>
+  </tr>
+  <tr>
+    <td>Stats:<br/>- HP: 5200<br/>- Atk: 122<br/>- Def: 141<br/>- Sp.Atk: 239<br/>- Sp.Def: 140<br/>- Speed: <span class="blueText">207</span> - 231 - <span class="redText">254</span></td>
+    <td>Stats:<br/>- HP: 5875<br/>- Atk: 203<br/>- Def: 222<br/>- Sp.Atk: 59<br/>- Sp.Def: 131<br/>- Speed: <span class="blueText">191</span> - 213 - <span class="redText">234</span></td>
+    <td>Stats:<br/>- HP: 5875<br/>- Atk: 203<br/>- Def: 222<br/>- Sp.Atk: 59<br/>- Sp.Def: 131<br/>- Speed: <span class="blueText">191</span> - 213 - <span class="redText">234</span></td>
+    <td>Stats:<br/>- HP: 5875<br/>- Atk: 203<br/>- Def: 222<br/>- Sp.Atk: 59<br/>- Sp.Def: 131<br/>- Speed: <span class="blueText">191</span> - 213 - <span class="redText">234</span></td>
+    <td>Stats:<br/>- HP: 6775<br/>- Atk: 230<br/>- Def: 147<br/>- Sp.Atk: 113<br/>- Sp.Def: 185<br/>- Speed: <span class="blueText">161</span> - 179 - <span class="redText">196</span></td>
   </tr>
   <tr>
     <td>Ability:<br/>- Cursed Body</td>
@@ -121,6 +128,13 @@ All bosses:
     <td>Base Stats:<br/>91, 134, 95, 100, 100, 80</td>
   </tr>
   <tr>
+    <td>Stats:<br/>- HP: 4650<br/>- Atk: 91<br/>- Def: 120<br/>- Sp.Atk: 91<br/>- Sp.Def: 91<br/>- Speed: <span class="blueText">108</span> - 120 - <span class="redText">132</span></td>
+    <td>Stats:<br/>- HP: 8350<br/>- Atk: 122<br/>- Def: 113<br/>- Sp.Atk: 203<br/>- Sp.Def: 176<br/>- Speed: <span class="blueText">135</span> - 150 - <span class="redText">165</span></td>
+    <td>Stats:<br/>- HP: 5425<br/>- Atk: 122<br/>- Def: 113<br/>- Sp.Atk: 203<br/>- Sp.Def: 176<br/>- Speed: <span class="blueText">240</span> - 267 - <span class="redText">293</span></td>
+    <td>Stats:<br/>- HP: 5425<br/>- Atk: 239<br/>- Def: 113<br/>- Sp.Atk: 176<br/>- Sp.Def: 203<br/>- Speed: <span class="blueText">135</span> - 150 - <span class="redText">165</span></td>
+    <td>Stats:<br/>- HP: 6575<br/>- Atk: 246<br/>- Def: 176<br/>- Sp.Atk: 185<br/>- Sp.Def: 185<br/>- Speed: <span class="blueText">159</span> - 177 - <span class="redText">194</span></td>
+  </tr>
+  <tr>
     <td>Ability:<br/>- Imposter (HA)</td>
     <td>Ability:<br/>- Hydration (HA)</td>
     <td>Ability:<br/>- Quick Feet (HA)</td>
@@ -192,6 +206,13 @@ All bosses:
     <td>Base Stats:<br/>95, 75, 80, 100, 110, 30</td>
     <td>Base Stats:<br/>70, 130, 100, 55, 80, 65</td>
     <td>Base Stats:<br/>80, 125, 75, 40, 95, 85</td>
+  </tr>
+  <tr>
+    <td>Stats:<br/>- HP: 5425<br/>- Atk: 122<br/>- Def: 113<br/>- Sp.Atk: 239<br/>- Sp.Def: 176<br/>- Speed: <span class="blueText">207</span> - 231 - <span class="redText">254</span></td>
+    <td>Stats:<br/>- HP: 6775<br/>- Atk: 122<br/>- Def: 203<br/>- Sp.Atk: 113<br/>- Sp.Def: 239<br/>- Speed: <span class="blueText">135</span> - 150 - <span class="redText">165</span></td>
+    <td>Stats:<br/>- HP: 6775<br/>- Atk: 140<br/>- Def: 149<br/>- Sp.Atk: 185<br/>- Sp.Def: 203<br/>- Speed: <span class="blueText">78</span> - 87 - <span class="redText">95</span></td>
+    <td>Stats:<br/>- HP: 5650<br/>- Atk: 239<br/>- Def: 213<br/>- Sp.Atk: 104<br/>- Sp.Def: 149<br/>- Speed: <span class="blueText">135</span> - 150 - <span class="redText">165</span></td>
+    <td>Stats:<br/>- HP: 6100<br/>- Atk: 230<br/>- Def: 168<br/>- Sp.Atk: 77<br/>- Sp.Def: 176<br/>- Speed: <span class="blueText">167</span> - 186 - <span class="redText">204</span></td>
   </tr>
   <tr>
     <td>Ability:<br/>- Magic Bounce (HA)</td>
@@ -267,6 +288,13 @@ All bosses:
     <td>Base Stats:<br/>60, 130, 80, 60, 60, 70</td>
   </tr>
   <tr>
+    <td>Stats:<br/>- HP: 13975<br/>- Atk: 23<br/>- Def: 23<br/>- Sp.Atk: 140<br/>- Sp.Def: 248<br/>- Speed: <span class="blueText">118</span> - 132 - <span class="redText">145</span></td>
+    <td>Stats:<br/>- HP: 7000<br/>- Atk: 246<br/>- Def: 203<br/>- Sp.Atk: 176<br/>- Sp.Def: 185<br/>- Speed: <span class="blueText">128</span> - 143 - <span class="redText">157</span></td>
+    <td>Stats:<br/>- HP: 5200<br/>- Atk: 95<br/>- Def: 185<br/>- Sp.Atk: 176<br/>- Sp.Def: 131<br/>- Speed: <span class="blueText">135</span> - 150 - <span class="redText">165</span></td>
+    <td>Stats:<br/>- HP: 5550<br/>- Atk: 122<br/>- Def: 150<br/>- Sp.Atk: 230<br/>- Sp.Def: 212<br/>- Speed: <span class="blueText">159</span> - 177 - <span class="redText">194</span></td>
+    <td>Stats:<br/>- HP: 5200<br/>- Atk: 239<br/>- Def: 177<br/>- Sp.Atk: 113<br/>- Sp.Def: 113<br/>- Speed: <span class="blueText">143</span> - 159 - <span class="redText">174</span></td>
+  </tr>
+  <tr>
     <td>Ability:<br/>- Healer (HA)</td>
     <td>Ability:<br/>- Unnerve (HA)</td>
     <td>Ability:<br/>- Drizzle</td>
@@ -338,6 +366,13 @@ All bosses:
     <td>Base Stats:<br/>85, 120, 70, 50, 60, 100</td>
     <td>Base Stats:<br/>108, 130, 95, 80, 85, 102</td>
     <td>Base Stats:<br/>108, 112, 118, 68, 72, 47</td>
+  </tr>
+  <tr>
+    <td>Stats:<br/>- HP: 5650<br/>- Atk: 158<br/>- Def: 257<br/>- Sp.Atk: 158<br/>- Sp.Def: 131<br/>- Speed: <span class="blueText">62</span> - 69 - <span class="redText">75</span></td>
+    <td>Stats:<br/>- HP: 6775<br/>- Atk: 248<br/>- Def: 149<br/>- Sp.Atk: 203<br/>- Sp.Def: 149<br/>- Speed: <span class="blueText">191</span> - 213 - <span class="redText">234</span></td>
+    <td>Stats:<br/>- HP: 6325<br/>- Atk: 221<br/>- Def: 159<br/>- Sp.Atk: 95<br/>- Sp.Def: 113<br/>- Speed: <span class="blueText">191</span> - 213 - <span class="redText">234</span></td>
+    <td>Stats:<br/>- HP: 7350<br/>- Atk: 239<br/>- Def: 176<br/>- Sp.Atk: 149<br/>- Sp.Def: 158<br/>- Speed: <span class="blueText">195</span> - 217 - <span class="redText">238</span></td>
+    <td>Stats:<br/>- HP: 7350<br/>- Atk: 206<br/>- Def: 246<br/>- Sp.Atk: 127<br/>- Sp.Def: 134<br/>- Speed: <span class="blueText">106</span> - 118 - <span class="redText">129</span></td>
   </tr>
   <tr>
     <td>Ability:<br/>- Drought</td>
@@ -413,6 +448,13 @@ All bosses:
     <td>Base Stats:<br/>114, 85, 70, 85, 80, 30</td>
   </tr>
   <tr>
+    <td>Stats:<br/>- HP: 5650<br/>- Atk: 131<br/>- Def: 212<br/>- Sp.Atk: 239<br/>- Sp.Def: 167<br/>- Speed: <span class="blueText">126</span> - 141 - <span class="redText">155</span></td>
+    <td>Stats:<br/>- HP: 5425<br/>- Atk: 203<br/>- Def: 239<br/>- Sp.Atk: 113<br/>- Sp.Def: 122<br/>- Speed: <span class="blueText">183</span> - 204 - <span class="redText">224</span></td>
+    <td>Stats:<br/>- HP: 5425<br/>- Atk: 113<br/>- Def: 203<br/>- Sp.Atk: 239<br/>- Sp.Def: 176<br/>- Speed: <span class="blueText">135</span> - 150 - <span class="redText">165</span></td>
+    <td>Stats:<br/>- HP: 5550<br/>- Atk: 230<br/>- Def: 150<br/>- Sp.Atk: 122<br/>- Sp.Def: 212<br/>- Speed: <span class="blueText">159</span> - 177 - <span class="redText">194</span></td>
+    <td>Stats:<br/>- HP: 7625<br/>- Atk: 158<br/>- Def: 159<br/>- Sp.Atk: 158<br/>- Sp.Def: 149<br/>- Speed: <span class="blueText">78</span> - 87 - <span class="redText">95</span></td>
+  </tr>
+  <tr>
     <td>Ability:<br/>- Analytic (HA)</td>
     <td>Ability:<br/>- Chlorophyll (HA)</td>
     <td>Ability:<br/>- Ice Body (HA)</td>
@@ -484,6 +526,13 @@ All bosses:
     <td>Base Stats:<br/>85, 60, 65, 135, 105, 100</td>
     <td>Base Stats:<br/>78, 81, 71, 74, 69, 126</td>
     <td>Base Stats:<br/>65, 75, 90, 97, 123, 44</td>
+  </tr>
+  <tr>
+    <td>Stats:<br/>- HP: 5900<br/>- Atk: 269<br/>- Def: 195<br/>- Sp.Atk: 113<br/>- Sp.Def: 131<br/>- Speed: <span class="blueText">187</span> - 208 - <span class="redText">228</span></td>
+    <td>Stats:<br/>- HP: 6625<br/>- Atk: 194<br/>- Def: 195<br/>- Sp.Atk: 230<br/>- Sp.Def: 167<br/>- Speed: <span class="blueText">189</span> - 210 - <span class="redText">231</span></td>
+    <td>Stats:<br/>- HP: 6325<br/>- Atk: 113<br/>- Def: 150<br/>- Sp.Atk: 248<br/>- Sp.Def: 194<br/>- Speed: <span class="blueText">191</span> - 213 - <span class="redText">234</span></td>
+    <td>Stats:<br/>- HP: 6000<br/>- Atk: 150<br/>- Def: 161<br/>- Sp.Atk: 138<br/>- Sp.Def: 129<br/>- Speed: <span class="blueText">234</span> - 260 - <span class="redText">286</span></td>
+    <td>Stats:<br/>- HP: 5425<br/>- Atk: 140<br/>- Def: 195<br/>- Sp.Atk: 179<br/>- Sp.Def: 226<br/>- Speed: <span class="blueText">101</span> - 113 - <span class="redText">124</span></td>
   </tr>
   <tr>
     <td>Ability:<br/>- Unnerve (HA)</td>
@@ -559,6 +608,13 @@ All bosses:
     <td>Base Stats:<br/>75, 117, 65, 55, 65, 110</td>
   </tr>
   <tr>
+    <td>Stats:<br/>- HP: 5675<br/>- Atk: 136<br/>- Def: 192<br/>- Sp.Atk: 221<br/>- Sp.Def: 165<br/>- Speed: <span class="blueText">126</span> - 140 - <span class="redText">154</span></td>
+    <td>Stats:<br/>- HP: 6775<br/>- Atk: 122<br/>- Def: 122<br/>- Sp.Atk: 203<br/>- Sp.Def: 239<br/>- Speed: <span class="blueText">126</span> - 141 - <span class="redText">155</span></td>
+    <td>Stats:<br/>- HP: 6550<br/>- Atk: 185<br/>- Def: 159<br/>- Sp.Atk: 203<br/>- Sp.Def: 275<br/>- Speed: <span class="blueText">159</span> - 177 - <span class="redText">194</span></td>
+    <td>Stats:<br/>- HP: 6775<br/>- Atk: 215<br/>- Def: 365<br/>- Sp.Atk: 84<br/>- Sp.Def: 87<br/>- Speed: <span class="blueText">75</span> - 84 - <span class="redText">92</span></td>
+    <td>Stats:<br/>- HP: 5875<br/>- Atk: 215<br/>- Def: 150<br/>- Sp.Atk: 104<br/>- Sp.Def: 122<br/>- Speed: <span class="blueText">207</span> - 231 - <span class="redText">254</span></td>
+  </tr>
+  <tr>
     <td>Ability:<br/>- Mega Launcher</td>
     <td>Ability:<br/>- Pixilate (HA)</td>
     <td>Ability:<br/>- Gooey (HA)</td>
@@ -630,6 +686,13 @@ All bosses:
     <td>Base Stats:<br/>98, 87, 105, 53, 85, 67</td>
     <td>Base Stats:<br/>48, 101, 95, 91, 85, 15</td>
     <td>Base Stats:<br/>70, 65, 60, 125, 90, 65</td>
+  </tr>
+  <tr>
+    <td>Stats:<br/>- HP: 4750<br/>- Atk: 118<br/>- Def: 307<br/>- Sp.Atk: 100<br/>- Sp.Def: 260<br/>- Speed: <span class="blueText">86</span> - 96 - <span class="redText">105</span></td>
+    <td>Stats:<br/>- HP: 4975<br/>- Atk: 167<br/>- Def: 177<br/>- Sp.Atk: 95<br/>- Sp.Def: 194<br/>- Speed: <span class="blueText">185</span> - 206 - <span class="redText">226</span></td>
+    <td>Stats:<br/>- HP: 6900<br/>- Atk: 161<br/>- Def: 222<br/>- Sp.Atk: 100<br/>- Sp.Def: 158<br/>- Speed: <span class="blueText">138</span> - 154 - <span class="redText">169</span></td>
+    <td>Stats:<br/>- HP: 4650<br/>- Atk: 186<br/>- Def: 204<br/>- Sp.Atk: 168<br/>- Sp.Def: 158<br/>- Speed: <span class="blueText">54</span> - 60 - <span class="redText">66</span></td>
+    <td>Stats:<br/>- HP: 5650<br/>- Atk: 122<br/>- Def: 141<br/>- Sp.Atk: 230<br/>- Sp.Def: 167<br/>- Speed: <span class="blueText">135</span> - 150 - <span class="redText">165</span></td>
   </tr>
   <tr>
     <td>Ability:<br/>- Regenerator (HA)</td>
@@ -705,6 +768,13 @@ All bosses:
     <td>Base Stats:<br/>100, 100, 130, 45, 90, 35</td>
   </tr>
   <tr>
+    <td>Stats:<br/>- HP: 6450<br/>- Atk: 221<br/>- Def: 168<br/>- Sp.Atk: 185<br/>- Sp.Def: 140<br/>- Speed: <span class="blueText">260</span> - 289 - <span class="redText">317</span></td>
+    <td>Stats:<br/>- HP: 5650<br/>- Atk: 212<br/>- Def: 159<br/>- Sp.Atk: 131<br/>- Sp.Def: 113<br/>- Speed: <span class="blueText">199</span> - 222 - <span class="redText">244</span></td>
+    <td>Stats:<br/>- HP: 5825<br/>- Atk: 140<br/>- Def: 159<br/>- Sp.Atk: 122<br/>- Sp.Def: 140<br/>- Speed: <span class="blueText">209</span> - 233 - <span class="redText">256</span></td>
+    <td>Stats:<br/>- HP: 5050<br/>- Atk: 149<br/>- Def: 240<br/>- Sp.Atk: 95<br/>- Sp.Def: 149<br/>- Speed: <span class="blueText">183</span> - 204 - <span class="redText">224</span></td>
+    <td>Stats:<br/>- HP: 7000<br/>- Atk: 185<br/>- Def: 267<br/>- Sp.Atk: 86<br/>- Sp.Def: 167<br/>- Speed: <span class="blueText">86</span> - 96 - <span class="redText">105</span></td>
+  </tr>
+  <tr>
     <td>Ability:<br/>- Cursed Body (HA)</td>
     <td>Ability:<br/>- Iron Fist (HA)</td>
     <td>Ability:<br/>- Technician (HA)</td>
@@ -776,6 +846,13 @@ All bosses:
     <td>Base Stats:<br/>70, 70, 60, 105, 60, 125</td>
     <td>Base Stats:<br/>80, 120, 90, 60, 70, 85</td>
     <td>Base Stats:<br/>63, 95, 65, 80, 72, 110</td>
+  </tr>
+  <tr>
+    <td>Stats:<br/>- HP: 6325<br/>- Atk: 113<br/>- Def: 213<br/>- Sp.Atk: 230<br/>- Sp.Def: 149<br/>- Speed: <span class="blueText">151</span> - 168 - <span class="redText">184</span></td>
+    <td>Stats:<br/>- HP: 5875<br/>- Atk: 230<br/>- Def: 177<br/>- Sp.Atk: 113<br/>- Sp.Def: 185<br/>- Speed: <span class="blueText">167</span> - 186 - <span class="redText">204</span></td>
+    <td>Stats:<br/>- HP: 5650<br/>- Atk: 131<br/>- Def: 141<br/>- Sp.Atk: 194<br/>- Sp.Def: 113<br/>- Speed: <span class="blueText">232</span> - 258 - <span class="redText">283</span></td>
+    <td>Stats:<br/>- HP: 6100<br/>- Atk: 221<br/>- Def: 195<br/>- Sp.Atk: 113<br/>- Sp.Def: 131<br/>- Speed: <span class="blueText">167</span> - 186 - <span class="redText">204</span></td>
+    <td>Stats:<br/>- HP: 5325<br/>- Atk: 176<br/>- Def: 150<br/>- Sp.Atk: 149<br/>- Sp.Def: 134<br/>- Speed: <span class="blueText">207</span> - 231 - <span class="redText">254</span></td>
   </tr>
   <tr>
     <td>Ability:<br/>- Weak Armor (HA)</td>
@@ -851,6 +928,13 @@ All bosses:
     <td>Base Stats:<br/>80, 119, 90, 54, 67, 90</td>
   </tr>
   <tr>
+    <td>Stats:<br/>- HP: 6100<br/>- Atk: 131<br/>- Def: 150<br/>- Sp.Atk: 149<br/>- Sp.Def: 221<br/>- Speed: <span class="blueText">191</span> - 213 - <span class="redText">234</span></td>
+    <td>Stats:<br/>- HP: 5650<br/>- Atk: 185<br/>- Def: 240<br/>- Sp.Atk: 68<br/>- Sp.Def: 104<br/>- Speed: <span class="blueText">151</span> - 168 - <span class="redText">184</span></td>
+    <td>Stats:<br/>- HP: 6325<br/>- Atk: 140<br/>- Def: 172<br/>- Sp.Atk: 131<br/>- Sp.Def: 194<br/>- Speed: <span class="blueText">182</span> - 203 - <span class="redText">223</span></td>
+    <td>Stats:<br/>- HP: 5650<br/>- Atk: 190<br/>- Def: 186<br/>- Sp.Atk: 113<br/>- Sp.Def: 158<br/>- Speed: <span class="blueText">162</span> - 181 - <span class="redText">199</span></td>
+    <td>Stats:<br/>- HP: 6100<br/>- Atk: 219<br/>- Def: 195<br/>- Sp.Atk: 102<br/>- Sp.Def: 125<br/>- Speed: <span class="blueText">175</span> - 195 - <span class="redText">214</span></td>
+  </tr>
+  <tr>
     <td>Ability:<br/>- Mycelium Might</td>
     <td>Ability:<br/>- Regenerator (HA)</td>
     <td>Ability:<br/>- Pickpocket (HA)</td>
@@ -924,6 +1008,13 @@ All bosses:
     <td>Base Stats:<br/>150, 100, 115, 65, 65, 35</td>
   </tr>
   <tr>
+    <td>Stats:<br/>- HP: 5650<br/>- Atk: 176<br/>- Def: 150<br/>- Sp.Atk: 158<br/>- Sp.Def: 122<br/>- Speed: <span class="blueText">225</span> - 251 - <span class="redText">276</span></td>
+    <td>Stats:<br/>- HP: 5650<br/>- Atk: 158<br/>- Def: 294<br/>- Sp.Atk: 113<br/>- Sp.Def: 104<br/>- Speed: <span class="blueText">135</span> - 150 - <span class="redText">165</span></td>
+    <td>Stats:<br/>- HP: 6225<br/>- Atk: 104<br/>- Def: 195<br/>- Sp.Atk: 239<br/>- Sp.Def: 150<br/>- Speed: <span class="blueText">169</span> - 188 - <span class="redText">206</span></td>
+    <td>Stats:<br/>- HP: 10150<br/>- Atk: 208<br/>- Def: 150<br/>- Sp.Atk: 86<br/>- Sp.Def: 104<br/>- Speed: <span class="blueText">148</span> - 165 - <span class="redText">181</span></td>
+    <td>Stats:<br/>- HP: 9250<br/>- Atk: 185<br/>- Def: 240<br/>- Sp.Atk: 122<br/>- Sp.Def: 122<br/>- Speed: <span class="blueText">86</span> - 96 - <span class="redText">105</span></td>
+  </tr>
+  <tr>
     <td>Ability:<br/>- Regenerator (HA)</td>
     <td>Ability:<br/>- Sand Veil (HA)</td>
     <td>Ability:<br/>- Corrosion (HA)</td>
@@ -995,6 +1086,13 @@ All bosses:
     <td>Base Stats:<br/>120, 90, 70, 110, 70, 60</td>
     <td>Base Stats:<br/>100, 135, 120, 60, 85, 50</td>
     <td>Base Stats:<br/>115, 145, 92, 75, 86, 87</td>
+  </tr>
+  <tr>
+    <td>Stats:<br/>- HP: 7450<br/>- Atk: 212<br/>- Def: 177<br/>- Sp.Atk: 95<br/>- Sp.Def: 167<br/>- Speed: <span class="blueText">175</span> - 195 - <span class="redText">214</span></td>
+    <td>Stats:<br/>- HP: 8350<br/>- Atk: 140<br/>- Def: 141<br/>- Sp.Atk: 86<br/>- Sp.Def: 185<br/>- Speed: <span class="blueText">62</span> - 69 - <span class="redText">75</span></td>
+    <td>Stats:<br/>- HP: 7900<br/>- Atk: 167<br/>- Def: 159<br/>- Sp.Atk: 203<br/>- Sp.Def: 131<br/>- Speed: <span class="blueText">126</span> - 141 - <span class="redText">155</span></td>
+    <td>Stats:<br/>- HP: 7000<br/>- Atk: 248<br/>- Def: 249<br/>- Sp.Atk: 113<br/>- Sp.Def: 158<br/>- Speed: <span class="blueText">110</span> - 123 - <span class="redText">135</span></td>
+    <td>Stats:<br/>- HP: 7675<br/>- Atk: 266<br/>- Def: 199<br/>- Sp.Atk: 140<br/>- Sp.Def: 159<br/>- Speed: <span class="blueText">171</span> - 190 - <span class="redText">209</span></td>
   </tr>
   <tr>
     <td>Ability:<br/>- Defiant (HA)</td>

@@ -592,7 +592,7 @@ export const baseStyles = css`
     text-align: left;
     margin: 0;
     padding: 3px 8px;
-    background-color: #ffecd9;
+    background-color: #E5CFFF;
   }
 
   table tr td {
@@ -1454,12 +1454,25 @@ export const baseStyles = css`
     height: auto !important;
     width: 590px;
   }
-  .dungeonPageImage2 {
+  .pageImage img {
+    position: relative !important;
+    width: 280px !important;
+    height: auto;
+  }
+  .pageImageLarge img {
+    position: relative !important;
+    width: 480px !important;
+    height: auto;
+  }
+  .pageImage2 img {
+    position: relative !important;
+  }
+  .pageImage2 {
     display: flex;
     width: 680px !important;
     height: auto;
   }
-  .dungeonPageImage2 img {
+  .pageImage2 img {
     position: relative !important;
   }
   .allyImage span {
@@ -1508,11 +1521,11 @@ export const baseStyles = css`
     padding-top: 5px;
     position: relative !important;
   }
-  .dungeonPageTopImage2 {
+  .pageTopImage2 {
     display: flex;
     max-width: 560px;
   }
-  .dungeonPageTopImage2 img {
+  .pageTopImage2 img {
     padding-top: 5px;
     position: relative !important;
   }

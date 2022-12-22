@@ -4,11 +4,13 @@ metaTitle: "Tera Raid - Pokemon SV Guides"
 metaDescription: "Tera Raid Guide for Pokemon Scarlet / Violet"
 ---
 
-<p><span class="redText">※ This page is still incomplete.</span></p>
+<p><span class="redText">※ This guide is still a WIP - Last updated December 22nd, 2022.</span></p>
 
-[Image]
+<div class="pageTopImage2">
+  <img src="../images/raid/raid_crystal.jpg"/><img src="../images/raid/shield_break.jpg"/>
+</div>
 
-Tera raids are one of the multiplayer features in Pokemon SV where a group of up to 4 players battle a boss pokemon.
+Tera raids are one of the multiplayer features in Pokemon SV where a group of up to 4 players battle a boss pokemon.<br/>The ally party size is always 4 pokemon, and NPCs fill in if there are not enough players - No penalty if a NPC faints.<br/>They're first unlocked after going to school for the first time and gaining access to your ride pokemon.
 
 # Overview
 
@@ -26,7 +28,9 @@ Tera raids are one of the multiplayer features in Pokemon SV where a group of up
 
 ## Terastallization
 
-[Image]
+<div class="pageImage">
+  <img src="../images/raid/terastallize.jpg"/>
+</div>
 
 Each player gains the option to Terastallize after they land a damage dealing move 3 times.<br/>However, some bosses will reset the Terastallization charge during battle based on remaining HP or time.<br/>If you plan on Terastallizing, select it quickly once it becomes available in case the charge gets reset.
 
@@ -45,11 +49,15 @@ Examples:
 
 #### Icons
 
-[Image]
+<div class="pageImageLarge">
+  <img src="../images/raid/tera_types.png"/>
+</div>
 
 ## Time Limit
 
-[Image]
+<div class="pageImage">
+  <img src="../images/raid/revival_penalty.png"/>
+</div>
 
 The time limit for raids is:
 
@@ -64,7 +72,9 @@ Each time a player-controlled pokemon faints, a penalty is subtracted from the r
 
 ## Cheers
 
-[Image]
+<div class="pageImage">
+  <img src="../images/raid/cheer.jpg"/>
+</div>
 
 Cheers are special actions that can be used up to 3 times per player.
 
@@ -90,7 +100,9 @@ Effect: Restore HP to the entire party, and cure all status conditions.
 
 ## Shield
 
-[Image]
+<div class="pageImage">
+  <img src="../images/raid/shield.png"/><br/><img src="../images/raid/shield.jpg"/>
+</div>
 
 Raid bosses can activate a shield when remaining time or the boss's remaining HP gets low.<br/>The activation thresholds vary by pokemon, but for 6 stars it's generally 50\~75% HP or 55% remaining time.
 
@@ -102,7 +114,9 @@ Details:
 
 ## Status Reset
 
-[Image]
+<div class="pageImage2">
+  <img src="../images/raid/player_reset.jpg"/><br/><img src="../images/raid/boss_reset.jpg"/>
+</div>
 
 The raid boss can occasionally reset the status of themselves or your party.<br/>These effects are triggered based on remaining time or the boss's remaining HP.
 
@@ -133,8 +147,6 @@ When choosing a pokemon for a raid, pay attention to the boss's base types - NOT
 
 ## Don't Faint
 
-[Image]
-
 The timer penalty in ★6 raids can be as high as 1/7 of the remaining time (\~60 seconds), so it's important to stay alive.
 
 - Support pokemon should use Reflect or Light Screen before other allies act, unless they need to Taunt or Skill Swap.
@@ -147,7 +159,9 @@ The timer penalty in ★6 raids can be as high as 1/7 of the remaining time (\~6
 
 ## Team Play
 
-[Image]
+<div class="pageImage">
+  <img src="../images/raid/ally_move.png"/>
+</div>
 
 Raids go more smoothly when each player plays off of each other, instead of trying to solo the fight.<br/>Watch the party status in the upper left corner to see what moves other players are using.
 
@@ -161,7 +175,11 @@ Examples:
 
 ## Buffs and Debuffs
 
-★6 bosses have 2500 HP and shields cover between 25\~40% depending on the boss (upwards of 1000 HP).<br/>Therefore, immediately attacking without buffs or debuffs and risking shield activation is a terrible idea.<br/>It's best to boost attackers and weaken the boss and aim for a one-shot if possible to skip the shield.
+<div class="pageImage">
+  <img src="../images/raid/debuffs.jpg"/>
+</div>
+
+★6 bosses have 2500 HP and shields cover between 25\~40% depending on the boss (upwards of 1000 HP).<br/>Therefore, immediately attacking without buffs or debuffs and risking shield activation is a terrible idea.<br/>It's best to boost attackers and weaken the boss and aim for a one-shot if possible to skip the shield.<br/>※ Press the Y button to check current status of player and boss pokemon.
 
 #### Buffs (Moves)
 

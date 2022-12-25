@@ -615,6 +615,13 @@ export const baseStyles = css`
     position: relative !important;
     vertical-align: middle;
   }
+  .buildsTable img {
+    position: relative !important;
+  }
+  .buildImage img {
+    width: 350px !important;
+    height: auto;
+  }
   .centeredTable td {
     text-align: center;
   }
@@ -1099,6 +1106,9 @@ export const baseStyles = css`
   .sealCurse {
     text-align: center;
     background-color: #7aabdd;
+  }
+  .highlightNavy {
+    background-color: #606c86 !important;
   }
   .highlightGreen {
     background-color: #CCFFCC !important;

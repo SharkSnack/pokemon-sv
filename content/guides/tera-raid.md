@@ -4,7 +4,7 @@ metaTitle: "Tera Raid - Pokemon SV Guides"
 metaDescription: "Tera Raid Guide for Pokemon Scarlet / Violet"
 ---
 
-<p><span class="redText">※ This guide is still a WIP - Last updated December 22nd, 2022.</span></p>
+<p><span class="redText">※ This guide is still a WIP - Last updated December 24th, 2022.</span></p>
 
 <div class="pageTopImage2">
   <img src="../images/raid/raid_crystal.jpg"/><img src="../images/raid/shield_break.jpg"/>
@@ -179,7 +179,7 @@ Examples:
   <img src="../images/raid/debuffs.jpg"/>
 </div>
 
-★6 bosses have 2500 HP and shields cover between 25\~40% depending on the boss (upwards of 1000 HP).<br/>Therefore, immediately attacking without buffs or debuffs and risking shield activation is a terrible idea.<br/>It's best to boost attackers and weaken the boss and aim for a one-shot if possible to skip the shield.<br/>※ Press the Y button to check current status of player and boss pokemon.
+★6 bosses have thousands of HP and shields cover between 25\~40% depending on the boss.<br/>Therefore, immediately attacking without buffs or debuffs and risking shield activation is a terrible idea.<br/>It's best to boost attackers and weaken the boss and aim for a one-shot if possible to skip the shield.<br/>※ Press the Y button to check current status of player and boss pokemon.
 
 #### Buffs (Moves)
 

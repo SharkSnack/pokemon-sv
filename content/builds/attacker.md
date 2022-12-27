@@ -4,7 +4,7 @@ metaTitle: "Attacker Builds - Pokemon SV Guides"
 metaDescription: "Tera raid attacker pokemon builds for Pokemon Scarlet / Violet"
 ---
 
-These are some of the pokemon builds I use for ★6\~7 Tera Raids. - <span class="redText">※ Last updated December 24th, 2022.</span>
+These are some of the pokemon builds I use for ★6\~7 Tera Raids. - <span class="redText">※ Last updated December 26th, 2022.</span>
 
 Stat abbreviations: <span class="blueText">Atk</span> - Attack, <span class="blueText">Def</span> - Defense, <span class="blueText">SpA</span> - Sp. Atk, <span class="blueText">SpD</span> - Sp. Def, <span class="blueText">Spe</span> - Speed
 

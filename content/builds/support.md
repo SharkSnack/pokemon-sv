@@ -4,7 +4,7 @@ metaTitle: "Support Builds - Pokemon SV Guides"
 metaDescription: "Tera raid support pokemon builds for Pokemon Scarlet / Violet"
 ---
 
-These are some of the pokemon builds I use for ★6\~7 Tera Raids. - <span class="redText">※ Last updated December 24th, 2022.</span>
+These are some of the pokemon builds I use for ★6\~7 Tera Raids. - <span class="redText">※ Last updated December 26th, 2022.</span>
 
 Stat abbreviations: <span class="blueText">Atk</span> - Attack, <span class="blueText">Def</span> - Defense, <span class="blueText">SpA</span> - Sp. Atk, <span class="blueText">SpD</span> - Sp. Def, <span class="blueText">Spe</span> - Speed
 
@@ -156,6 +156,114 @@ Stat abbreviations: <span class="blueText">Atk</span> - Attack, <span class="blu
   </tr>
 </table>
 
+<br/>
+
+<table class="buildsTable">
+  <tr>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/golduck_1.jpg"/></td>
+    <td class="highlightGray">Name</td>
+    <td>Golduck</td>
+    <td class="highlightGray">Notes</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Item</td>
+    <td>Wide Lens</td>
+    <td rowspan="6">Similar to Umbreon, but trades<br/>Reflect for Chilling Water and has a<br/>different defensive typing.<br/><br/>Chilling Water lowers Atk by 1 stage<br/>even when the boss has a shield.<br/><br/>Skill Swap is mainly for Clear Body<br/>and Mirror Armor bosses.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tera</td>
+    <td>Any</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ability</td>
+    <td>Damp</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nature</td>
+    <td>Bold (+Def, -Atk)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">EVs</td>
+    <td>220 HP, 252 Def, 38 Spe</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Moves</td>
+    <td>- Chilling Water <img src="../images/type/water.gif"/><br/>- Screech<br/>- Skill Swap<br/>- Taunt</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="buildsTable">
+  <tr>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/sableye_1.jpg"/></td>
+    <td class="highlightGray">Name</td>
+    <td>Sableye</td>
+    <td class="highlightGray">Notes</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Item</td>
+    <td>Flame Orb</td>
+    <td rowspan="6">Use Will-O-Wisp to halve damage taken,<br/>then when the boss gains shield and<br/>does the 2nd boss reset at 50% HP, use<br/>Fling to inflict burn again.<br/><br/>Skill Swapping Stall on to the boss<br/>ensures that the boss acts last.<br/><br/>As a bonus, Flame Orb protects you<br/>from sleep and paralysis.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tera</td>
+    <td>Any</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ability</td>
+    <td>Stall</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nature</td>
+    <td>Bold (+Def, -Atk)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">EVs</td>
+    <td>252 HP, 252 Def, 4 SpD</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Moves</td>
+    <td>- Will-O-Wisp<br/>- Reflect<br/>- Fling <img src="../images/type/dark.gif"/><br/>- Skill Swap</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="buildsTable">
+  <tr>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/blissey_2.jpg"/></td>
+    <td class="highlightGray">Name</td>
+    <td>Blissey</td>
+    <td class="highlightGray">Notes</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Item</td>
+    <td>Flame Orb</td>
+    <td rowspan="6">Start with <span class="blueText">Hang Tough!</span>, then use<br/>Chilling Water to reduce damage<br/>to the point where Life Dew at<br/>least breaks even when used.<br/><br/>Wait until the 2nd boss reset at<br/>50% HP before using Fling to inflict<br/>burn - This is what makes Blissey<br/>better than Eviolite Chansey.<br/><br/>But there are better Fling supports,<br/>so this is mostly just for fun.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tera</td>
+    <td>Any</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ability</td>
+    <td>Healer</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nature</td>
+    <td>Bold (+Def, -Atk)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">EVs</td>
+    <td>238 HP, 252 Def, 20 Spe</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Moves</td>
+    <td>- Chilling Water <img src="../images/type/water.gif"/><br/>- Soft-Boiled<br/>- Fling <img src="../images/type/dark.gif"/><br/>- Life Dew</td>
+  </tr>
+</table>
+
 ### Special
 
 <table class="buildsTable">
@@ -260,7 +368,115 @@ Stat abbreviations: <span class="blueText">Atk</span> - Attack, <span class="blu
   </tr>
   <tr>
     <td class="highlightGray">Moves</td>
-    <td>- Helping Hand<br/>- Heal Pulse / Life Dew<br/>- Light Screen<br/>- Electric Terrain</td>
+    <td>- Life Dew / Heal Pulse<br/>- Helping Hand<br/>- Light Screen<br/>- Electric Terrain</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="buildsTable">
+  <tr>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/eelektross_1.jpg"/></td>
+    <td class="highlightGray">Name</td>
+    <td>Eelektross</td>
+    <td class="highlightGray">Notes</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Item</td>
+    <td>Safety Goggles / Iron Ball<br/>Covert Cloak</td>
+    <td rowspan="6">Invest in Def so it can be used<br/>against bosses with both physical<br/>and special attacks like Goodra.<br/><br/>Acid Spray lowers SpD by 2 stages<br/>even when the boss has a shield.<br/><br/>Eerie Impulse lowers SpA by 2<br/>stages, but doesn't work on shield.<br/><br/>Run Electric Terrain if desired, but<br/>you won't gain sleep immunity<br/>unless you hold an Iron Ball.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tera</td>
+    <td>Any</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ability</td>
+    <td>Levitate</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nature</td>
+    <td>Bold (+Def, -Atk)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">EVs</td>
+    <td>252 HP, 136 Def,<br/>96 SpD, 24 Spe</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Moves</td>
+    <td>- Acid Spray <img src="../images/type/poison.gif"/><br/>- Eerie Impulse<br/>- Light Screen<br/>- Gastro Acid</td>
+  </tr>
+</table>
+
+### Mixed
+
+<table class="buildsTable">
+  <tr>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/tsareena_1.jpg"/></td>
+    <td class="highlightGray">Name</td>
+    <td>Tsareena</td>
+    <td class="highlightGray">Notes</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Item</td>
+    <td>Light Orb</td>
+    <td rowspan="6">Sweet Veil grants sleep immunity to the<br/>party while Tsareena is present.<br/><br/>Trop Kick lowers Atk by 1 stage even<br/>when the boss has a shield.<br/><br/>Use Fling after the boss gains shield<br/>and does the 2nd boss reset at 50% HP<br/>to inflict paralysis.<br/><br/>Light Ball is obtained from wild Pikachu,<br/>though it's quite rare.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tera</td>
+    <td>Any</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ability</td>
+    <td>Sweet Veil (HA)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nature</td>
+    <td>Calm (+SpD, -Atk)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">EVs</td>
+    <td>252 HP, 26 Def, 232 SpD</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Moves</td>
+    <td>- Trop Kick <img src="../images/type/grass.gif"/><br/>- Reflect<br/>- Light Screen<br/>- Fling <img src="../images/type/dark.gif"/></td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="buildsTable">
+  <tr>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/dragonair_1.jpg"/></td>
+    <td class="highlightGray">Name</td>
+    <td>Dragonair</td>
+    <td class="highlightGray">Notes</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Item</td>
+    <td>Eviolite</td>
+    <td rowspan="6">Safeguard protects the party from<br/>status conditions for 5 turns.<br/><br/>Chilling Water lowers Atk by 1 stage<br/>even when the boss has a shield.<br/><br/>Honestly not that good, but I really<br/>like Dragonair so wanted to make a<br/>build to have some fun with.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tera</td>
+    <td>Any</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ability</td>
+    <td>Marvel Scale (HA)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nature</td>
+    <td>Bold (+Def, -Atk)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">EVs</td>
+    <td>252 HP, 136 Def,<br/>112 SpD, 8 Spe</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Moves</td>
+    <td>- Chilling Water <img src="../images/type/water.gif"/><br/>- Helping Hand<br/>- Light Screen<br/>- Safeguard</td>
   </tr>
 </table>
 

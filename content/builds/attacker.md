@@ -4,7 +4,7 @@ metaTitle: "Attacker Builds - Pokemon SV Guides"
 metaDescription: "Tera raid attacker pokemon builds for Pokemon Scarlet / Violet"
 ---
 
-These are some of the pokemon builds I use for ★6\~7 Tera Raids. - <span class="redText">※ Last updated December 28th, 2022.</span>
+These are the attacker pokemon builds I've made for Tera Raids. - <span class="redText">※ Last updated December 29th, 2022.</span>
 
 Stat abbreviations: <span class="blueText">Atk</span> - Attack, <span class="blueText">Def</span> - Defense, <span class="blueText">SpA</span> - Sp. Atk, <span class="blueText">SpD</span> - Sp. Def, <span class="blueText">Spe</span> - Speed
 
@@ -160,42 +160,6 @@ Stat abbreviations: <span class="blueText">Atk</span> - Attack, <span class="blu
 
 <table class="buildsTable">
   <tr>
-    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/perrserker_1.jpg"/></td>
-    <td class="highlightGray">Name</td>
-    <td>Perrserker</td>
-    <td class="highlightGray">Notes</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Item</td>
-    <td>Wide Lens / Metal Coat</td>
-    <td rowspan="6">Steely Spirit boosts the power of Steel<br/>type attacks by x1.5 and stacks with<br/>multiple Perrserkers.<br/><br/>Screech and Helping Hand are nice if<br/>there's a Belly Drum user or such, but<br/>Fake Tears is also an option if you<br/>team with Magnezone or Gholdengo.<br/><br/>You could build it as a pure support<br/>rather than an attacker if desired.</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Tera</td>
-    <td>Steel</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Ability</td>
-    <td>Steely Spirit (HA)</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Nature</td>
-    <td>Adamant (+Atk, -SpA)</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">EVs</td>
-    <td>252 HP, 252 Atk, 4 SpD</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Moves</td>
-    <td>- Iron Head <img src="../images/type/steel.gif"/><br/>- Screech<br/>- Swords Dance<br/>- Helping Hand / Taunt</td>
-  </tr>
-</table>
-
-<br/>
-
-<table class="buildsTable">
-  <tr>
     <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/koraidon_1.jpg"/></td>
     <td class="highlightGray">Name</td>
     <td>Koraidon</td>
@@ -225,6 +189,150 @@ Stat abbreviations: <span class="blueText">Atk</span> - Attack, <span class="blu
   <tr>
     <td class="highlightGray">Moves</td>
     <td>- Drain Punch <img src="../images/type/fighting.gif"/><br/>- Breaking Swipe <img src="../images/type/dragon.gif"/><br/>- Screech<br/>- Swords Dance</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="buildsTable">
+  <tr>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/tinkaton_1.jpg"/></td>
+    <td class="highlightGray">Name</td>
+    <td>Tinkaton</td>
+    <td class="highlightGray">Notes</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Item</td>
+    <td>Metal Coat</td>
+    <td rowspan="6">Gigaton Hammer has 160 BP but can't<br/>be used twice in a row, so the idea is to<br/>sandwich other moves between uses.<br/><br/>That said, don't immediately attack the<br/>boss without buffing yourself first.<br/><br/>Even better if there are Perrserkers.<br/><br/>234 speed lets you outspeed neutral<br/>nature Maushold if you care about it.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tera</td>
+    <td>Steel</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ability</td>
+    <td>Mold Breaker</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nature</td>
+    <td>Adamant (+Atk, -SpA)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">EVs</td>
+    <td>216 HP, 252 Atk, 36 Spe</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Moves</td>
+    <td>- Gigaton Hammer <img src="../images/type/steel.gif"/><br/>- Play Rough <img src="../images/type/fairy.gif"/><br/>- Swords Dance<br/>- Reflect / Light Screen</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="buildsTable">
+  <tr>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/cetitan_1.jpg"/></td>
+    <td class="highlightGray">Name</td>
+    <td>Cetitan</td>
+    <td class="highlightGray">Notes</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Item</td>
+    <td>Life Orb</td>
+    <td rowspan="6">Sheer Force boosts power of moves<br/>with secondary effects by x1.3 and<br/>negates damage from Life Orb.<br/><br/>Other options include Heavy Slam,<br/>Earthquake, and Superpower, but<br/>none of these gain the power boost<br/>from Sheer Force.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tera</td>
+    <td>Ice</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ability</td>
+    <td>Sheer Force (HA)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nature</td>
+    <td>Adamant (+Atk, -SpA)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">EVs</td>
+    <td>252 Atk, 128 Def, 128 SpD</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Moves</td>
+    <td>- Icicle Crash <img src="../images/type/ice.gif"/><br/>- Play Rough <img src="../images/type/fairy.gif"/><br/>- Liquidation <img src="../images/type/water.gif"/><br/>- Belly Drum</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="buildsTable">
+  <tr>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/kingambit_1.jpg"/></td>
+    <td class="highlightGray">Name</td>
+    <td>Kingambit</td>
+    <td class="highlightGray">Notes</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Item</td>
+    <td>Shell Bell</td>
+    <td rowspan="6">Simple attacker for ghost raids or such.<br/><br/>Taunt is a bit wasted unless you invest<br/>EVs in speed, so Metal Sound is an<br/>option to help special attackers.<br/><br/>Beware of Fighting type moves.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tera</td>
+    <td>Dark or Steel</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ability</td>
+    <td>Defiant</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nature</td>
+    <td>Adamant (+Atk, -SpA)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">EVs</td>
+    <td>216 HP, 252 Atk, 36 Spe</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Moves</td>
+    <td>- Kowtow Cleave <img src="../images/type/dark.gif"/><br/>- Iron Head <img src="../images/type/steel.gif"/><br/>- Swords Dance<br/>- Taunt / Metal Sound</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="buildsTable">
+  <tr>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/perrserker_1.jpg"/></td>
+    <td class="highlightGray">Name</td>
+    <td>Perrserker</td>
+    <td class="highlightGray">Notes</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Item</td>
+    <td>Wide Lens / Metal Coat</td>
+    <td rowspan="6">Steely Spirit boosts the power of Steel<br/>type attacks by x1.5 and stacks with<br/>multiple Perrserkers.<br/><br/>Screech and Helping Hand are nice if<br/>there's a Belly Drum user or such, but<br/>Fake Tears is also an option if you<br/>team with Magnezone or Gholdengo.<br/><br/>You could build it as a pure support<br/>rather than an attacker if desired.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tera</td>
+    <td>Steel</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ability</td>
+    <td>Steely Spirit (HA)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nature</td>
+    <td>Adamant (+Atk, -SpA)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">EVs</td>
+    <td>252 HP, 252 Atk, 4 SpD</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Moves</td>
+    <td>- Iron Head <img src="../images/type/steel.gif"/><br/>- Screech<br/>- Swords Dance<br/>- Helping Hand / Taunt</td>
   </tr>
 </table>
 
@@ -729,6 +837,78 @@ Stat abbreviations: <span class="blueText">Atk</span> - Attack, <span class="blu
   <tr>
     <td class="highlightGray">Moves</td>
     <td>- Bug Buzz <img src="../images/type/bug.gif"/><br/>- Fiery Dance <img src="../images/type/fire.gif"/><br/>- Light Screen<br/>- Screech</td>
+  </tr>
+</table>
+
+### For Fun
+
+<table class="buildsTable">
+  <tr>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/zangoose_1.jpg"/></td>
+    <td class="highlightGray">Name</td>
+    <td>Zangoose</td>
+    <td class="highlightGray">Notes</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Item</td>
+    <td>Toxic Orb</td>
+    <td rowspan="6">Hidden ability boosts Atk by x1.5 which<br/>plays well with STAB Facade.<br/><br/>Zangoose can learn Belly Drum, but it's<br/>far too squishy to utilize it.<br/><br/><span class="redText">※ Don't bring this to ★6~7 raids.</span></td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tera</td>
+    <td>Normal</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ability</td>
+    <td>Toxic Boost (HA)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nature</td>
+    <td>Adamant (+Atk, -SpA)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">EVs</td>
+    <td>248 HP, 252 Atk, 8 Spe</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Moves</td>
+    <td>- Facade <img src="../images/type/normal.gif"/><br/>- Poison Jab <img src="../images/type/poison.gif"/><br/>- Close Combat <img src="../images/type/fighting.gif"/><br/>- Swords Dance</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="buildsTable">
+  <tr>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/ursaring_1.jpg"/></td>
+    <td class="highlightGray">Name</td>
+    <td>Ursaring</td>
+    <td class="highlightGray">Notes</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Item</td>
+    <td>Flame Orb / Sitrus Berry</td>
+    <td rowspan="6">Guts boosts Atk by x1.5 which plays<br/>well with STAB Facade.<br/><br/>Basically a better Zangoose, but still<br/>too squishy to be able to recommend<br/>it for higher difficulty raids.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tera</td>
+    <td>Normal</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ability</td>
+    <td>Guts</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nature</td>
+    <td>Adamant (+Atk, -SpA)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">EVs</td>
+    <td>204 HP, 252 Atk,<br/>4 Def, 48 Spe</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Moves</td>
+    <td>- Facade <img src="../images/type/normal.gif"/><br/>- Crunch <img src="../images/type/dark.gif"/><br/>- Close Combat <img src="../images/type/fighting.gif"/><br/>- Belly Drum</td>
   </tr>
 </table>
 

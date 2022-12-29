@@ -4,7 +4,7 @@ metaTitle: "Support Builds - Pokemon SV Guides"
 metaDescription: "Tera raid support pokemon builds for Pokemon Scarlet / Violet"
 ---
 
-These are some of the pokemon builds I use for ★6\~7 Tera Raids. - <span class="redText">※ Last updated December 28th, 2022.</span>
+These are the support pokemon builds I've made for Tera Raids. - <span class="redText">※ Last updated December 29th, 2022.</span>
 
 Stat abbreviations: <span class="blueText">Atk</span> - Attack, <span class="blueText">Def</span> - Defense, <span class="blueText">SpA</span> - Sp. Atk, <span class="blueText">SpD</span> - Sp. Def, <span class="blueText">Spe</span> - Speed
 
@@ -384,7 +384,7 @@ Stat abbreviations: <span class="blueText">Atk</span> - Attack, <span class="blu
   <tr>
     <td class="highlightGray">Item</td>
     <td>Light Clay</td>
-    <td rowspan="6">Misty Terrain protects against status<br/>conditions for 5 turns.<br/><br/>Mystical Fire lowers SpA by 1 stage<br/>even when the boss has a shield.<br/><br/>Taunt is mainly used against bosses<br/>that buff themselves or overwrite<br/>terrain.<br/><br/>Particularly good against Gardevoir.</td>
+    <td rowspan="6">Misty Terrain protects against status<br/>conditions for 5 turns.<br/><br/>Mystical Fire lowers SpA by 1 stage<br/>even when the boss has a shield.<br/><br/>Taunt is mainly used against bosses<br/>that buff themselves or overwrite<br/>terrain.</td>
   </tr>
   <tr>
     <td class="highlightGray">Tera</td>
@@ -772,6 +772,42 @@ Stat abbreviations: <span class="blueText">Atk</span> - Attack, <span class="blu
 
 <table class="buildsTable">
   <tr>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/palossand_1.jpg"/></td>
+    <td class="highlightGray">Name</td>
+    <td>Palossand</td>
+    <td class="highlightGray">Notes</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Item</td>
+    <td>Covert Cloak</td>
+    <td rowspan="6">Remove boss's ability with Skill Swap,<br/>then use <span class="blueText">Hang Tough!</span> once, followed<br/>by repeated Chilling Water usage.<br/><br/>Rain Dance or Sunny Day is just in<br/>case an ally changes the weather to<br/>a sandstorm for whatever reason.<br/><br/>Not as good as many other physical<br/>supports, but can be fun to use other<br/>pokemon sometimes.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tera</td>
+    <td>Any</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ability</td>
+    <td>Sand Veil (HA)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nature</td>
+    <td>Bold (+Def, -Atk)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">EVs</td>
+    <td>252 HP, 252 Def, 4 SpD</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Moves</td>
+    <td>- Chilling Water <img src="../images/type/water.gif"/><br/>- Shore Up<br/>- Skill Swap<br/>- Rain Dance / Sunny Day</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="buildsTable">
+  <tr>
     <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/blissey_2.jpg"/></td>
     <td class="highlightGray">Name</td>
     <td>Blissey</td>
@@ -878,19 +914,19 @@ Stat abbreviations: <span class="blueText">Atk</span> - Attack, <span class="blu
   </tr>
 </table>
 
-#### VS Corviknight
+#### VS Gardevoir
 
 <table class="buildsTable">
   <tr>
-    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/palossand_1.jpg"/></td>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/armarouge_3.jpg"/></td>
     <td class="highlightGray">Name</td>
-    <td>Palossand</td>
+    <td>Armarouge</td>
     <td class="highlightGray">Notes</td>
   </tr>
   <tr>
     <td class="highlightGray">Item</td>
     <td>Covert Cloak</td>
-    <td rowspan="6">Remove Mirror Armor with Skill Swap,<br/>then use <span class="blueText">Hang Tough!</span> once, followed<br/>by repeated Chilling Water usage.<br/><br/>Rain Dance or Sunny Day is just in<br/>case an ally changes the weather to<br/>a sandstorm for whatever reason.<br/><br/>Not as good as Fling + Flame Orb<br/>Oranguru, but can be fun to use other<br/>pokemon sometimes.</td>
+    <td rowspan="6">Turn 1 - Select Taunt ASAP to prevent<br/>Calm Mind and Thunder Wave usage.<br/><br/>Use <span class="blueText">Hang Tough!</span>, Mystical Fire, and<br/>Light Screen to reduce damage.<br/><br/>Press Y to check Gardevoir's status<br/>periodically, and use Clear Smog if it<br/>has lots of Calm Minds stacked.</td>
   </tr>
   <tr>
     <td class="highlightGray">Tera</td>
@@ -898,19 +934,19 @@ Stat abbreviations: <span class="blueText">Atk</span> - Attack, <span class="blu
   </tr>
   <tr>
     <td class="highlightGray">Ability</td>
-    <td>Sand Veil (HA)</td>
+    <td>Flash Fire</td>
   </tr>
   <tr>
     <td class="highlightGray">Nature</td>
-    <td>Bold (+Def, -Atk)</td>
+    <td>Calm (+SpD, -Atk)</td>
   </tr>
   <tr>
     <td class="highlightGray">EVs</td>
-    <td>252 HP, 252 Def, 4 SpD</td>
+    <td>220 HP, 252 SpD, 36 Spe</td>
   </tr>
   <tr>
     <td class="highlightGray">Moves</td>
-    <td>- Chilling Water <img src="../images/type/water.gif"/><br/>- Shore Up<br/>- Skill Swap<br/>- Rain Dance / Sunny Day</td>
+    <td>- Mystical Fire <img src="../images/type/fire.gif"/><br/>- Clear Smog <img src="../images/type/poison.gif"/><br/>- Light Screen<br/>- Taunt</td>
   </tr>
 </table>
 

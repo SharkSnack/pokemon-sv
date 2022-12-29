@@ -4,13 +4,13 @@ metaTitle: "Attacker Builds - Pokemon SV Guides"
 metaDescription: "Tera raid attacker pokemon builds for Pokemon Scarlet / Violet"
 ---
 
-These are some of the pokemon builds I use for ★6\~7 Tera Raids. - <span class="redText">※ Last updated December 26th, 2022.</span>
+These are some of the pokemon builds I use for ★6\~7 Tera Raids. - <span class="redText">※ Last updated December 28th, 2022.</span>
 
 Stat abbreviations: <span class="blueText">Atk</span> - Attack, <span class="blueText">Def</span> - Defense, <span class="blueText">SpA</span> - Sp. Atk, <span class="blueText">SpD</span> - Sp. Def, <span class="blueText">Spe</span> - Speed
 
-# Online
+# Randoms
 
-## General (Random Players)
+## Builds for Online (Randoms)
 
 ### Physical
 
@@ -153,6 +153,114 @@ Stat abbreviations: <span class="blueText">Atk</span> - Attack, <span class="blu
   <tr>
     <td class="highlightGray">Moves</td>
     <td>- Rage Fist <img src="../images/type/ghost.gif"/><br/>- Drain Punch <img src="../images/type/fighting.gif"/><br/>- Screech / Bulk Up<br/>- Taunt</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="buildsTable">
+  <tr>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/perrserker_1.jpg"/></td>
+    <td class="highlightGray">Name</td>
+    <td>Perrserker</td>
+    <td class="highlightGray">Notes</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Item</td>
+    <td>Wide Lens / Metal Coat</td>
+    <td rowspan="6">Steely Spirit boosts the power of Steel<br/>type attacks by x1.5 and stacks with<br/>multiple Perrserkers.<br/><br/>Screech and Helping Hand are nice if<br/>there's a Belly Drum user or such, but<br/>Fake Tears is also an option if you<br/>team with Magnezone or Gholdengo.<br/><br/>You could build it as a pure support<br/>rather than an attacker if desired.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tera</td>
+    <td>Steel</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ability</td>
+    <td>Steely Spirit (HA)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nature</td>
+    <td>Adamant (+Atk, -SpA)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">EVs</td>
+    <td>252 HP, 252 Atk, 4 SpD</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Moves</td>
+    <td>- Iron Head <img src="../images/type/steel.gif"/><br/>- Screech<br/>- Swords Dance<br/>- Helping Hand / Taunt</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="buildsTable">
+  <tr>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/koraidon_1.jpg"/></td>
+    <td class="highlightGray">Name</td>
+    <td>Koraidon</td>
+    <td class="highlightGray">Notes</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Item</td>
+    <td>Black Belt / Life Orb</td>
+    <td rowspan="6">Orichalcum Pulse sets sun on entry.<br/><br/>Breaking Swipe lowers Atk by 1 stage<br/>even when the boss has a shield, but<br/>can be swapped with Collision Course<br/>for more power if you want.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tera</td>
+    <td>Fighting</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ability</td>
+    <td>Orichalcum Pulse</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nature</td>
+    <td>Adamant (+Atk, -SpA)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">EVs</td>
+    <td>252 HP, 252 Atk, 4 SpD</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Moves</td>
+    <td>- Drain Punch <img src="../images/type/fighting.gif"/><br/>- Breaking Swipe <img src="../images/type/dragon.gif"/><br/>- Screech<br/>- Swords Dance</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="buildsTable">
+  <tr>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/iron_thorns_1.jpg"/></td>
+    <td class="highlightGray">Name</td>
+    <td>Iron Thorns</td>
+    <td class="highlightGray">Notes</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Item</td>
+    <td>Booster Energy</td>
+    <td rowspan="6">Main attacks have low BP, but can hit<br/>hard with some buffs / debuffs.<br/><br/>Include Earthquake or Iron Head if<br/>you want more coverage.<br/><br/>Overall, not bad but doesn't stand out.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tera</td>
+    <td>Electric or Rock</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ability</td>
+    <td>Quark Drive</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nature</td>
+    <td>Adamant (+Atk, -SpA)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">EVs</td>
+    <td>236 HP, 252 Atk, 20 SpD</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Moves</td>
+    <td>- Thunder Punch <img src="../images/type/electric.gif"/><br/>- Rock Slide <img src="../images/type/rock.gif"/><br/>- Screech<br/>- Swords Dance</td>
   </tr>
 </table>
 
@@ -412,6 +520,42 @@ Stat abbreviations: <span class="blueText">Atk</span> - Attack, <span class="blu
 
 <table class="buildsTable">
   <tr>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/magnezone_1.jpg"/></td>
+    <td class="highlightGray">Name</td>
+    <td>Magnezone</td>
+    <td class="highlightGray">Notes</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Item</td>
+    <td>Metal Coat</td>
+    <td rowspan="6">Analytic boosts attack power by 30%<br/>if you move last, so 0 Speed IV and<br/>Quiet nature is best if you use it.<br/><br/>Metal Sound lowers SpD by 2 stages,<br/>but doesn't work on shield.<br/><br/>Steel Beam is mainly only used when<br/>aiming for a one-shot. Swap it with<br/>an electric type attack if desired.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tera</td>
+    <td>Steel</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ability</td>
+    <td>Analytic (HA)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nature</td>
+    <td>Quiet (+SpA, -Spe)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">EVs</td>
+    <td>252 HP, 252 SpA, 4 Def</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Moves</td>
+    <td>- Flash Cannon <img src="../images/type/steel.gif"/><br/>- Steel Beam <img src="../images/type/steel.gif"/><br/>- Metal Sound<br/>- Reflect / Light Screen</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="buildsTable">
+  <tr>
     <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/bellibolt_1.jpg"/></td>
     <td class="highlightGray">Name</td>
     <td>Bellibolt</td>
@@ -552,4 +696,44 @@ Stat abbreviations: <span class="blueText">Atk</span> - Attack, <span class="blu
   </tr>
 </table>
 
-## Boss-Specific
+<br/>
+
+<table class="buildsTable">
+  <tr>
+    <td rowspan="7" class="highlightNavy buildImage"><img src="../images/builds/volcarona_1.jpg"/></td>
+    <td class="highlightGray">Name</td>
+    <td>Volcarona</td>
+    <td class="highlightGray">Notes</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Item</td>
+    <td>Shell Bell</td>
+    <td rowspan="6">Flame Body can inflict burn even when<br/>the boss has a shield.<br/><br/>Fiery Dance has a 50% chance to raise<br/>SpA by 1 stage each time you use it.<br/><br/>Swap Light Screen with Quiver Dance<br/>if you want a guaranteed power boost.<br/><br/>Screech is used to aim for a one-shot<br/>if there's a Belly Drum user.</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Tera</td>
+    <td>Bug or Fire</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Ability</td>
+    <td>Flame Body</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Nature</td>
+    <td>Modest (+SpA, -Atk)</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">EVs</td>
+    <td>252 HP, 252 SpA, 4 Def</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Moves</td>
+    <td>- Bug Buzz <img src="../images/type/bug.gif"/><br/>- Fiery Dance <img src="../images/type/fire.gif"/><br/>- Light Screen<br/>- Screech</td>
+  </tr>
+</table>
+
+# Organized
+
+## Builds for Organized Groups
+
+※ No builds for organized groups at the moment.
